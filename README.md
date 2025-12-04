@@ -9,4 +9,6 @@ Semana 14 | Lista de asistencia final
 
 
 1. Diego Cabezas
-2. Sidney Rodríguez
+2. Angelo Escalante
+3. Anthony Mairena
+4. Sidney Rodríguez
